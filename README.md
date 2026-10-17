@@ -35,10 +35,10 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=y-vi27
 
 | Project | Problem solved | Repository |
 | --- | --- | --- |
-| **AI-powered experimental optimisation** | Predict experimental outcomes and recommend candidate conditions. | [Add project link](https://github.com/) |
-| **Clinical NLP & coding evaluation** | Transform clinical free text into structured outputs and evaluate extraction quality. | [Add project link](https://github.com/) |
-| **Research AI agent / RAG** | Retrieve scientific literature and answer domain questions with source grounding. | [Add project link](https://github.com/) |
-| **Sensor-to-dashboard data platform** | Ingest device data, validate it and surface actionable insights. | [Add project link](https://github.com/) |
+| **AI-powered experimental optimisation** | Predict experimental outcomes and recommend candidate conditions. | [project link](https://github.com/) |
+| **Clinical NLP & coding evaluation** | Transform clinical free text into structured outputs and evaluate extraction quality. | [project link](https://github.com/) |
+| **Research AI agent / RAG** | Retrieve scientific literature and answer domain questions with source grounding. | [project link](https://github.com/) |
+| **Sensor-to-dashboard data platform** | Ingest device data, validate it and surface actionable insights. | [project link](https://github.com/) |
 
 ## Let's connect
 
